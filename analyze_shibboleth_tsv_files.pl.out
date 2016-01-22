@@ -1,0 +1,14 @@
+number_of_ips,number_of_countries,countries,'prior_username',failed_login_count,ip_string
+1,1,US-Marist,'urew',1,10.6.16.108
+1,1,US-Marist,Xrew,1,10.6.16.108
+
+
+
+
+TOTAL INVALID LOGINS FOR,urew,1,:US-Marist,:10.6.16.108
+TOTAL INVALID LOGINS FOR,Xrew,1,:US-Marist,:10.6.16.108
+
+
+
+
+VALID LOGIN TOTAL FOR,urew,2,1,:US-Marist:US-Marist
