@@ -183,7 +183,7 @@ if ( ( $number_of_ips >= $interesting_failed_ips) || ( $failed_login_count >= $i
 	$usernames_countries{$prior_username}="$usernames_countries{$prior_username}".":$countries";
 	$usernames_ips{$prior_username}="$usernames_ips{$prior_username}".":$ip_string";
 	$usernames_count{$prior_username}+=$failed_login_count;
-	print "LAST $number_of_ips,$number_of_countries,$countries,$prior_username,$failed_login_count,$ip_string\n";
+	print "$number_of_ips,$number_of_countries,$countries,$prior_username,$failed_login_count,$ip_string\n";
 }
 print "\n\n\n\n";
 foreach $username (keys %usernames){
