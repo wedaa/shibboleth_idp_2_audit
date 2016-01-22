@@ -1,0 +1,7 @@
+2016-01-22 10:23:21.130 - DEBUG [edu.internet2.middleware.shibboleth.idp.authn.provider.UsernamePasswordLoginServlet:170] - 10.6.16.108 - Attempting to authenticate user urew
+2016-01-22 10:23:21.434 - DEBUG [edu.internet2.middleware.shibboleth.idp.authn.provider.UsernamePasswordLoginServlet:194] - 10.6.16.108 - User authentication for urew failed
+2016-01-22 10:25:13.638 - DEBUG [edu.internet2.middleware.shibboleth.idp.authn.provider.UsernamePasswordLoginServlet:170] - 10.6.16.108 - Attempting to authenticate user urew
+2016-01-22 10:25:13.821 - DEBUG [edu.internet2.middleware.shibboleth.idp.authn.provider.UsernamePasswordLoginServlet:178] - 10.6.16.108 - Successfully authenticated user urew
+2016-01-22 2016-01-22 11:55:09.774 - DEBUG [edu.internet2.middleware.shibboleth.idp.authn.provider.UsernamePasswordLoginServlet:170] - 10.6.16.108 - Attempting to authenticate user urew
+2016-01-22 11:55:09.976 - DEBUG [edu.internet2.middleware.shibboleth.idp.authn.provider.UsernamePasswordLoginServlet:178] - 10.6.16.108 - Successfully authenticated user urew
+
